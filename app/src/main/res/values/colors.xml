@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="editText_colorBlack">#000000</color>
+
+    <color name="editText_colorWhite">#FFFFFF</color>
+    <color name="background_cardView">#33000000</color>
+    <color name="textColor_White">#FFFFFF</color>
+    <color name="item_white">#FFFFFF</color>
+
+
 </resources>
